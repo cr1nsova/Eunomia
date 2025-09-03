@@ -6,7 +6,7 @@
 *TODO:*
 The key differences are:
 - LPH macros support
-- LPH features like Static Env, VM Compression via loadstring(), Disable Line Info.
+- LPH features like Static Env, VM Compression via loadstring()
 - CSGO/CS2 cheats compability
 
 
