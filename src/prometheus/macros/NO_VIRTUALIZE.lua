@@ -1,0 +1,4 @@
+-- cr1n/sova
+-- Almost the same as JIT_MAX
+-- This macro applies more intense optimisations in a cost of security for a function or a variable.
+    --TODO

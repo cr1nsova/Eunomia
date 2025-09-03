@@ -1,0 +1,3 @@
+--TODO: if function - Add more junk code, apply extra layer of VM, if variable - add extra layer of VM
+-- cr1n/sova
+-- This macro applies more intense encryption to a function or string.

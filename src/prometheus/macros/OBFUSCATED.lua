@@ -1,0 +1,3 @@
+--TODO: First way is just replace ENMA_OBFUSCATED with true in the process of obfuscation. Second way is find a hard way. And i love hard ways.
+-- cr1n/sova
+-- This macro is a boolean that checks if script is obfuscated.

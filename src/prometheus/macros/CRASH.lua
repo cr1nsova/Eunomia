@@ -1,0 +1,3 @@
+--TODO: make ts work idk how
+-- cr1n/sova & Arwekol
+-- This macro securely crashes the VM and corrupts the VM context.

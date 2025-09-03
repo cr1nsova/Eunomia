@@ -1,0 +1,1 @@
+-- TODO: Implement Macro detection, detect func or var type, modify architecture to split code between macros, process code w/o macros with preset settings by user, modify steps so they can obfuscate all separated parts of code with their macro settings.

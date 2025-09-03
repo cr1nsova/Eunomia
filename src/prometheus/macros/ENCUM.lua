@@ -1,0 +1,3 @@
+-- cr1n/sova
+-- This macro applies more intense encryption to constant.
+    --TODO

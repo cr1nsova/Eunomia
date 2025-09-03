@@ -1,0 +1,3 @@
+-- cr1n/sova
+-- This macro applies extra optimisations for a function or a variable.
+    --TODO

@@ -12,8 +12,8 @@ local util = require("prometheus.util");
 local Parser = require("prometheus.parser");
 local Unparser = require("prometheus.unparser");
 local logger = require("logger");
-
 local NameGenerators = require("prometheus.namegenerators");
+local MacroProcessor = require("prometheus.macropocessor"); --add macroprocessor
 
 local Steps = require("prometheus.steps");
 
