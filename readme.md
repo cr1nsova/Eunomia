@@ -3,6 +3,7 @@
 ## Description
 Prometheus is a Lua obfuscator written in pure Lua.
 
+An attempt to make this ofuscator work with CSGO cheats.
 This Project was inspired by the amazing [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator).   
 It can currently obfuscate Lua51 and Roblox's LuaU, however LuaU support is not finished yet.
 
